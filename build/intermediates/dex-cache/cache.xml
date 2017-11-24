@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/danielphillips/Documents/Danaco/gyroscope_camera/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9b0d80608d204315856ea7dcd26fe2ce2277e35d">
+        <dex dex="/Users/danielphillips/Documents/Danaco/gyroscope_camera/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a292a0c4d0ec56c385f28b62193917e750bf468b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/danielphillips/Documents/Danaco/gyroscope_camera/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/danielphillips/Documents/Danaco/gyroscope_camera/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d6e56f7c595dd3f8416147b961affa4fa6d1ef94/classes.dex" />
+    </item>
+
+</items>
