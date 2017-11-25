@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/danielphillips/Documents/Danaco/gyroscope_camera/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="9b0d80608d204315856ea7dcd26fe2ce2277e35d">
-        <dex dex="/Users/danielphillips/Documents/Danaco/gyroscope_camera/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a292a0c4d0ec56c385f28b62193917e750bf468b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/danielphillips/Documents/Danaco/gyroscope_camera/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/danielphillips/Documents/Danaco/gyroscope_camera/camera_gyroscope/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/danielphillips/Documents/Danaco/gyroscope_camera/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d6e56f7c595dd3f8416147b961affa4fa6d1ef94/classes.dex" />
+        <dex dex="/Users/danielphillips/Documents/Danaco/gyroscope_camera/camera_gyroscope/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_131ab5e03dd0b39b83c9ae4f107efe5ceaa3ccf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/danielphillips/Documents/Danaco/gyroscope_camera/camera_gyroscope/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="200cbe8e70b10e826b7610f9d708ae45dde1ef98">
+        <dex dex="/Users/danielphillips/Documents/Danaco/gyroscope_camera/camera_gyroscope/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6f4aa801c06562b3711152e524f4b8a60075f011/classes.dex" />
     </item>
 
 </items>

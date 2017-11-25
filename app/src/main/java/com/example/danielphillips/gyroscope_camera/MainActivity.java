@@ -130,6 +130,7 @@ public class MainActivity extends Activity implements SensorEventListener, Surfa
         List<Camera.Size> sizes = param.getSupportedPreviewSizes();
         Camera.Size selected = sizes.get(0);
         param.setPreviewSize(selected.width,selected.height);
+        param.setFocusMode(Camera.Parameters.FOCUS_MODE_CONTINUOUS_PICTURE);
         camera.setParameters(param);
         try {
             // The Surface has been created, now tell the camera where to draw
